@@ -45,4 +45,5 @@ The Streamlit community for their support and resources.
 
 ## Author
 Mohamed Rafeek
+
 We hope you enjoy using StoryCraft as much as we enjoyed building it!
