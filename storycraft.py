@@ -664,5 +664,5 @@ with st.sidebar.expander("User Guide", expanded=False):
     if st.sidebar.button("Submit Rating"):
         st.sidebar.success(f"Thanks for rating us {rating} stars!")
         st.sidebar.markdown(
-            "Do visit my [Github Repository](https://github.com/mohamedrafeek19)"
+            "Do visit my [Github Repository](https://github.com/mohamedrafeek19/StoryCraft)"
         )
