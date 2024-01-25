@@ -628,7 +628,7 @@ with st.sidebar.expander("User Guide", expanded=False):
     user_guide_markdown = """
         ## User Guide
 
-        ### My project, "StoryCraft - Interactive Storyteller," is a Streamlit-based web app designed for interactive storytelling, integrating with the Story3 API. Here's an overview and a user guide based of my project:
+        ### My project, "StoryCraft - Interactive Storyteller," is a Streamlit-based web app designed for interactive storytelling, integrating with the Story3 API. Here's an overview and a user based guide of my project:
 
         #### Project Overview:
         - **Story Creation and Management:** Users can create, update, and delete stories. This includes adding twists to make stories more engaging.
