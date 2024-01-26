@@ -5,7 +5,7 @@ import random
 from prompts import generate_structured_sentence,format_twist_response
 
 # Streamlit page configuration
-st.set_page_config(page_title="📖 StoryCraft - Interactive Storyteller",layout="wide")
+st.set_page_config(page_title="StoryCraft - Interactive Storyteller",layout="wide",favicon=storycraft.png)
 
 # API configuration
 API_KEY = st.secrets["API_KEY"]
