@@ -23,8 +23,13 @@ StoryCraft is an interactive storytelling web application designed to create, ma
 
 ## Installation
 To run StoryCraft locally, clone the repository and install the required dependencies.
-git clone https://github.com/mohamedrafeek19/StoryCraft/.git
+
+git clone 
+
+https://github.com/mohamedrafeek19/StoryCraft/.git
+
 cd StoryCraft
+
 pip install -r requirements.txt
 
 ## Run the app with:
