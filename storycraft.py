@@ -90,8 +90,8 @@ style = """
         transform: translateY(-2px); /* Slight lift effect */
     }
         /* Increase sidebar width */
-    .sidebar.css-1d391kg {
-        width: 350px; /* Adjust the width as needed */
+    .sidebar .css-1d391kg {
+        width: 300px; /* Adjust the width as needed */
     }
 </style>
 """
