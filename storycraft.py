@@ -628,7 +628,7 @@ with st.sidebar:
         display_sidebar_response(question, response_text)
         st.session_state['selected_question'] = None  # Reset the selected question
 
-with st.sidebar("User Guide"):
+with st.sidebar.expander("User Guide"):
     user_guide_markdown = """
         ## User Guide
 
