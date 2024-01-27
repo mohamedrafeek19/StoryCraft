@@ -89,6 +89,10 @@ style = """
         box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Soft shadow for depth */
         transform: translateY(-2px); /* Slight lift effect */
     }
+        /* Increase sidebar width */
+    .css-1d391kg {
+        width: 350px; /* Adjust the width as needed */
+    }
 </style>
 """
 
