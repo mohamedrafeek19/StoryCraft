@@ -91,7 +91,7 @@ style = """
     }
         /* Increase sidebar width */
     [data-testid="stSidebar"][aria-expanded="false"] > div:first-child {
-        width: 350px;  /* Adjust the width as needed */
+        width: 600px;  /* Adjust the width as needed */
         margin-left: -350px;  /* Adjust based on the width */
     }
 </style>
