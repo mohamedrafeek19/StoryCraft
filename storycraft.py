@@ -89,11 +89,6 @@ style = """
         box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Soft shadow for depth */
         transform: translateY(-2px); /* Slight lift effect */
     }
-        /* Increase sidebar width */
-    [data-testid="stSidebar"][aria-expanded="false"] > div:first-child {
-        width: 1000px;  /* Adjust the width as needed */
-        margin-left: -350px;  /* Adjust based on the width */
-    }
 </style>
 """
 
